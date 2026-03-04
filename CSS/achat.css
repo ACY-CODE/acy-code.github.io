@@ -47,14 +47,14 @@ nav ul li a{
     transition: 0.5s;
 }
 nav ul li a:hover{
-    color: rgb(255, 0, 234);
+    color: rgb(0, 0, 0);
 }
 
 
 
 h1{
 	text-decoration: none;
-    color: rgb(0, black, 0);
+    color: black;
     font-size: 16px;
     transition: 0.5s;
 }
@@ -76,7 +76,7 @@ ul li{
    border: 1px solid rgb(0, 0, 0);
    color: rgb(0, 0, 0);
    padding : 50px 30px;
-   background-color: rgb(0,0,0,0.5);
+   background-color: rgba(0, 0, 0, 0.5);
 
 }
 .robot .logo{
@@ -90,7 +90,7 @@ ul li{
     transition: 0.5s;
 }
 .robot a:hover{
-    color: rgb(65, 56, 56);
+    color: rgb(0, 0, 0);
 }
 .robot a{
     text-decoration: none;
