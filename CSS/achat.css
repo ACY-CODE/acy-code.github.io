@@ -19,7 +19,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-	background-image: url("BG.png");
+	background-color: white;
 }
 /*bare en haut de la page*/
 nav{
