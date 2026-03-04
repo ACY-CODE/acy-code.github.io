@@ -40,18 +40,18 @@ nav ul li{
 }
 nav ul li a{
     text-decoration: none;
-    color: rgb(0, 255, 0);
+    color: rgb(0, 0, 0);
     font-size: 16px;
     transition: 0.5s;
 }
 .accueil{
     text-align: center;
     text-decoration: none;
-    color: snow;
+    color: rgb(0, 0, 0);
 }
 .accueil h1{
     font-size: 150px;
-    color: green;
+    color: rgb(0, 0, 0);
     font-weight: 600;
     
 }
@@ -61,16 +61,16 @@ nav ul li a{
 .accueil a{
     text-decoration: none;
     display: inline-block;
-    color: snow;
+    color: rgb(0, 0, 0);
     font-size: 24px;
-    border: 2px solid rgb(0, 255, 0);
+    border: 2px solid rgb(0, 0, 0);
     padding: 10px 50px;
     margin-top: 20px;
     border-radius: 20px;
     transition: 0.5s;
 }
 .accueil a:hover{
-    color: rgb(65, 56, 56);
+    color: rgb(255, 0, 234);
 }
 .video{
     position: absolute;
@@ -79,4 +79,4 @@ nav ul li a{
     z-index: -1;
 }
 nav ul li a:hover{
-    color: rgb(65, 56, 56);}
+    color: rgb(255, 0, 234);}
